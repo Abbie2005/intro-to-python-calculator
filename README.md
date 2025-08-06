@@ -9,24 +9,24 @@ A simple Python calculator that takes two numbers and an operator (+, -, *, /) f
 - Handles division by zero errors
 - Simple and beginner-friendly
 
-## 💻 Example
+##  Example
 Enter the first number: 10
 Enter the second number: 5
 Enter the operation (+, -, *, /): +
 10.0 + 5.0 = 15.0
 
 
-## 🧠 What I Learned
+##  What I Learned
 
 - How to collect input from users in Python
 - Using `if`, `elif`, and `else` statements for logic
 - Displaying results using `print()` and formatted strings
 
-## 📂 File
+##  File
 
 - `calculator.py` — The main Python script
 
-## 📅 Assignment
+## Assignment
 
 This project was completed as part of the "Intro to Python" module for the PLP Africa program.
 
